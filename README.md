@@ -1,15 +1,15 @@
-### Hi I'm Luis! Hi I'm a Software Developer! 🚀
+### Hi I'm Luis! 🚀 I'm a Software Developer!
 
 I believe in the power of programming to materialise ideas and build innovative solutions.
 
 ### 🛠️ My Tech Stack
 
 ```javascript
-export default {
+const myTechStack = {
   executionEnvironment: "Node.js",
   lenguajes: ["JavaScript", "TypeScript"],
   frameworks: ["Node.js", "NestJS", "Vue.js"],
-  databases: ["MongoDB", "SQL"],
+  databases: ["MongoDB", "MySQL"],
   principles: "SOLID",
 };
 ```
@@ -20,10 +20,10 @@ export default {
 ![NestJs](https://img.shields.io/badge/-NestJs-black?style=flat-square&logo=Nestjs)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express)
 ![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+![VueJs](https://img.shields.io/badge/-VueJs-black?style=flat-square&logo=vue.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![SQL Server](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=sqlserver)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
-![VueJs](https://img.shields.io/badge/-VueJs-black?style=flat-square&logo=vue.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
@@ -35,6 +35,16 @@ export default {
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+
+#### 💡 What am I learning now?
+
+I am currently expanding my knowledge and skills in several key areas:
+
+- **Cloud Services:** Exploring the capabilities of cloud platforms such as AWS and Azure to design and deploy scalable solutions.
+
+- **Messaging Brokers:** Delving into the use of messaging systems like RabbitMQ and Kafka to create robust and efficient architectures.
+
+I'm excited to dive into these new learnings and apply them to future projects - stay tuned for more of my explorations into the fascinating world of development!
 
 ### 🚀 Exploring
 
